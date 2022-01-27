@@ -1,0 +1,52 @@
+{
+    "id": "/subscriptions/54411a87-6d1c-490f-aa8c-4325ccb53253/resourceGroups/STAR/providers/Microsoft.BotService/botServices/Paulie",
+    "name": "Paulie",
+    "type": "Microsoft.BotService/botServices",
+    "etag": "\"3400b404-0000-1800-0000-61efddb90000\"",
+    "location": "global",
+    "sku": {
+        "name": "F0"
+    },
+    "kind": "azurebot",
+    "tags": {},
+    "properties": {
+        "displayName": "Paulie",
+        "description": null,
+        "iconUrl": "https://docs.botframework.com/static/devportal/client/images/bot-framework-default.png",
+        "endpoint": "",
+        "msaAppId": "3d26d2fd-141d-4910-ab6f-9e9f9741e92a",
+        "msaAppTenantId": "5ad8172d-7a9a-4e7b-839e-7ec1f2849467",
+        "msaAppType": "UserAssignedMSI",
+        "msaAppMSIResourceId": "/subscriptions/54411a87-6d1c-490f-aa8c-4325ccb53253/resourceGroups/STAR/providers/Microsoft.ManagedIdentity/userAssignedIdentities/Paulie",
+        "developerAppInsightKey": null,
+        "developerAppInsightsApplicationId": null,
+        "luisAppIds": [],
+        "endpointVersion": "3.0",
+        "configuredChannels": [
+            "webchat"
+        ],
+        "enabledChannels": [
+            "webchat",
+            "directline"
+        ],
+        "isDeveloperAppInsightsApiKeySet": false,
+        "isStreamingSupported": false,
+        "schemaTransformationVersion": "1.3",
+        "publishingCredentials": null,
+        "parameters": null,
+        "allSettings": null,
+        "manifestUrl": null,
+        "storageResourceId": null,
+        "tenantId": null,
+        "migrationToken": null,
+        "isCmekEnabled": false,
+        "cmekKeyVaultUrl": null,
+        "openWithHint": "bfcomposer://",
+        "appPasswordHint": "/subscriptions/54411a87-6d1c-490f-aa8c-4325ccb53253/resourceGroups/STAR/providers/Microsoft.KeyVault/vaults/bot-secrets-utvphy/secrets/bot-Paulie-pwd-mk2nlm",
+        "publicNetworkAccess": null,
+        "disableLocalAuth": false,
+        "cmekEncryptionStatus": "Off",
+        "provisioningState": "Succeeded"
+    },
+    "zones": []
+}
